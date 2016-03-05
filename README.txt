@@ -1,6 +1,8 @@
 PuTTY README
 ============
 
+Comment: Modifying file to add see how GIT sees it. 
+
 This is the README file for the PuTTY installer distribution. If
 you're reading this, you've probably just run our installer and
 installed PuTTY on your system.
